@@ -1,0 +1,11 @@
+
+Error Date is ۱۴۰۲/۹/۱۲--۳:۰۰:۱۵--->AxiosError: Request failed with status code 400
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۴۶:۴۶--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۴۶:۵۱--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۵۵:۳۸--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۵۶:۱۷--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۵۶:۱۹--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۲:۵۷:۱۹--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۳:۰۰:۳۰--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۹--۱۳:۰۵:۱۳--->TypeError: Cannot read properties of undefined (reading 'ptr')
+Error Date is ۱۴۰۲/۱۰/۲۳--۱۷:۲۰:۱۵--->TypeError: Cannot read properties of undefined (reading 'ptr')

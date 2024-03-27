@@ -1,0 +1,6 @@
+###
+GET http://127.0.0.1:3000/jwtcreate HTTP/1.1 
+####
+post http://127.0.0.1:3000/jwtverify HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyUGhvbmUiOjkzNzYxODM0MzEsImlhdCI6MTY5NzM3NDkwOH0.W-Q4YAEhhayMqjNlWbhIzuK8VVMpT9c7t4t3y6ecYvM
+
